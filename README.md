@@ -14,8 +14,6 @@
 - More Into the project: \
    Read more about out project from [here](https://docs.google.com/document/d/1CYb9gdIdOxOsKH-8sJVJGZeicx_KZf3BQClVt6UbLok/edit?usp=sharing)
 
-The best way to better explore all the features of the **Alarm-Clock** is to fork and try out the project yourself
-
 ## ⚙️ Tech Stack
 - Android Studio
 - Kotlin
